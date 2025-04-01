@@ -1,4 +1,4 @@
-# PDF_form_fill
+# Intelligent PDF_form_fill
 This is a small project to automate PDF form filling using the intelligence of Vision Language Model
 The idea is to fill the form when the field inputs can't be matched with the actual form labels. For example let us consider Sai Srinivas is a 26 year old male and is single. The input JSON will be like
 
