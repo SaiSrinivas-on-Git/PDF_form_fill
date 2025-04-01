@@ -13,3 +13,4 @@ Below is the sample form to be filled
 As you observe, here the labels are not exactly matching with the input values (for example 26 year old would be considered as ≥18), but we expect the output to be something like below
 ![image](https://github.com/user-attachments/assets/616e1cf4-4d1f-41fc-955d-c5c88728fa3c)
 
+To perform this I went with the approach where the decision making is made by Vision Language Model QWEN 2 VL to be specific, and the identification of fillable fields using pdf tool called reportlab and creating overlay of ticks and flattening the pdf finally using pdfrw. 
